@@ -1,0 +1,11 @@
+{
+  "project": "testeFront",
+  "repository": "https://github.com/GMarroquio/waTesteGuilhermeFront.git",
+  "endpointDev": "http://localhost:3001",
+  "endpointProd": "",
+  "dockerImage": "waproject/teste-front",
+  "dockerCredentials": "",
+  "sentryDsn": "",
+  "confirmed": true,
+  "slug": "teste-front"
+}
