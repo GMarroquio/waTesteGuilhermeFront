@@ -1,7 +1,5 @@
-testeFront
+WaProject Teste Guilherme
 ==================
-
-Utilize o VSCode, já está configurado com sugestão de extensões.
 
 ### Tecnologias
 
@@ -14,12 +12,8 @@ Utilize o VSCode, já está configurado com sugestão de extensões.
 ### Iniciando um novo projeto
 
 ```bash
-git clone [repo]
+git clone git@github.com:GMarroquio/waTesteGuilhermeFront.git
 yarn install # ou npm install
-
-node ./init.js
 
 yarn start # Não utilizar o docker
 ```
-
-### Para mais informações veja a pasta ./docs
