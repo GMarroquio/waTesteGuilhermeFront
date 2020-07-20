@@ -24,7 +24,7 @@ export function errorMessageFormatter(err: any): string {
       }
 
       if (err.status === 400) {
-        return `Dádos inválidos: ${err.data?.message ? `: ${err.data?.message}` : ''}`;
+        return `Dados inválidos: ${err.data?.message ? `: ${err.data?.message}` : ''}`;
       }
 
       return status[err.status] || 'Algo deu errado...';
